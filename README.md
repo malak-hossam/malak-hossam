@@ -51,11 +51,13 @@ interests:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malak-hossam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=malak-hossam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=malak-hossam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malak-hossam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=malak-hossam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" />
 </p>
 
 ### 🐍 Contribution Graph
