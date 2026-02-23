@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 ```yaml
 name: Malak Imbaby
@@ -30,17 +30,17 @@ interests:
   - Scalable backend architectures
 ```
 
-### What I Do
+### 🧠 What I Do
 
-| **AI Automation & LLMs** | **RAG & Memory Systems** |
+| 🤖 **AI Automation & LLMs** | 🔗 **RAG & Memory Systems** |
 | :--- | :--- |
 | **Design and deploy** LLM-powered applications and automate workflows with Vision-Language models. | **Build RAG pipelines** with long-term memory utilizing LangChain and Supabase for contextual AI agents. |
-| **Arabic NLP Systems** | **Production & Microservices** |
+| 📚 **Arabic NLP Systems** | ⚙️ **Production & Microservices** |
 | **Develop Arabic NLP systems** including morphology, syntax analysis, and sentiment processing. | **Ship production-ready** AI backend systems using FastAPI microservices and Docker. |
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,linux,git,supabase&theme=dark" />
@@ -48,7 +48,7 @@ interests:
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/malak-hossam">
@@ -62,15 +62,15 @@ interests:
   </a>
 </p>
 
-### Contribution Graph
+### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malak-hossam/malak-hossam/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/malak-hossam/malak-hossam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/malak-hossam">
