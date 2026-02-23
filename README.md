@@ -63,7 +63,7 @@ interests:
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/malak-hossam/malak-hossam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/malak-hossam/malak-hossam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </p>
 
 ---
