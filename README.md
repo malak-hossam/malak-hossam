@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:1a1b27,100:3f37c9&height=160&section=header&text=Malak%20Hossam&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20NLP%20|%20LLM%20Systems&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:1a1b27,100:3f37c9&height=160&section=header&text=Malak%20Imbaby&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20NLP%20|%20LLM%20Systems%20|%20AI%20Automation&descAlignY=70"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=9B8CFF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+Arabic+NLP;Multimodal+AI+%7C+FastAPI+%7C+Docker"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=9B8CFF&center=true&vCenter=true&width=600&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+AI+Automation;Multimodal+AI+%7C+FastAPI+%7C+Docker"/>
 </p>
 
 ---
@@ -11,12 +11,13 @@
 ## 👩‍💻 About Me
 
 ```yaml
-name: Malak Hossam
+name: Malak Imbaby
 role: AI Engineer | NLP Engineer
 location: Egypt
 focus:
   - Large Language Models (LLMs)
   - Retrieval-Augmented Generation (RAG)
+  - AI Automation & Agentic Workflows
   - Arabic NLP & Morphology
   - Vision-Language Models
 interests:
@@ -26,52 +27,12 @@ interests:
 ```
 
 ### 🧠 What I Do
-* **Design and deploy** LLM-powered applications
-* **Build RAG pipelines** with long-term memory
-* **Develop Arabic NLP systems** (morphology, syntax, sentiment)
-* **Create multimodal AI systems** combining vision + language
-* **Ship production-ready** FastAPI microservices with Docker
 
----
-
-### 🎞 Featured Projects
-
-#### 🧠 Vision-Based Desktop Automation
-Vision-Language automation system using **UGround VLM**
-* Semantic GUI grounding
-* GPU inference & coordinate normalization
-* Win32 desktop automation
-* Optional vLLM backend
-
-#### 📚 Arabic Morphology Model (AraBART)
-Fine-tuned **AraBART** on MASAQ
-* Integrated **CAMeL Tools**
-* Morphological feature extraction
-* Achieved **82% accuracy**
-
-#### 🤖 Arabic Chatbot (Gemini + LangChain)
-Arabic educational chatbot with:
-* Intent understanding & Contextual memory
-* Morphology & lexical microservices
-* RAG-powered responses
-
-#### 🧩 Lexical Analysis Agent
-FastAPI microservice for Arabic lexical processing:
-* Synonyms / Antonyms / Plurals
-* SQLite backend with LLM fallback
-* Reduced lookup latency by **40%**
-
-#### 🌦 Weather Prediction (LSTM)
-Time-series forecasting system:
-* LSTM-based architecture
-* Reduced MAE by **12%**
-* Climate data modeling
-
-#### 🦋 Butterfly Image Classification
-Computer vision project using:
-* Custom CNN (**75% accuracy**)
-* Fine-tuned ResNet (**94% accuracy**)
-* PyTorch & OpenCV
+| 🤖 **AI Automation & LLMs** | 🔗 **RAG & Memory Systems** |
+| :--- | :--- |
+| **Design and deploy** LLM-powered applications and automate workflows with Vision-Language models. | **Build RAG pipelines** with long-term memory for contextual and reliable AI agents. |
+| 📚 **Arabic NLP Systems** | ⚙️ **Production & Microservices** |
+| **Develop Arabic NLP systems** including morphology, syntax analysis, and sentiment processing. | **Ship production-ready** AI backend systems using FastAPI microservices and Docker. |
 
 ---
 
