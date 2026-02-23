@@ -12,7 +12,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 ```yaml
 name: Malak Imbaby
@@ -23,24 +23,23 @@ focus:
   - Retrieval-Augmented Generation (RAG)
   - AI Automation & Agentic Workflows
   - Arabic NLP & Morphology
-  - Vision-Language Models
 interests:
   - Production AI systems
   - Multimodal intelligence
   - Scalable backend architectures
 ```
 
-### 🧠 What I Do
+### What I Do
 
-| 🤖 **AI Automation & LLMs** | 🔗 **RAG & Memory Systems** |
+| **AI Automation & LLMs** | **RAG & Memory Systems** |
 | :--- | :--- |
 | **Design and deploy** LLM-powered applications and automate workflows with Vision-Language models. | **Build RAG pipelines** with long-term memory utilizing LangChain and Supabase for contextual AI agents. |
-| 📚 **Arabic NLP Systems** | ⚙️ **Production & Microservices** |
+| **Arabic NLP Systems** | **Production & Microservices** |
 | **Develop Arabic NLP systems** including morphology, syntax analysis, and sentiment processing. | **Ship production-ready** AI backend systems using FastAPI microservices and Docker. |
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,linux,git,supabase&theme=dark" />
@@ -48,7 +47,7 @@ interests:
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=malak-hossam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -56,11 +55,11 @@ interests:
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=malak-hossam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=malak-hossam&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img width="45%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Coding Animation" />
 </p>
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/malak-hossam/malak-hossam/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
