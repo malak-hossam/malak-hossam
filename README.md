@@ -10,6 +10,8 @@
   <img src="https://media.tenor.com/JYqH1gOq-cIAAAAC/genshin-impact-scaramouche.gif" width="180" alt="Genshin Impact GIF" />
 </p>
 
+![Demo GIF](assets/video.gif)
+
 ---
 
 ## About Me
